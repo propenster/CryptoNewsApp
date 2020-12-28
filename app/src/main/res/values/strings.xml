@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CryptoNewsApp</string>
+    <!--    <string name="API_URL">http://newsapi.org/v2/everything?q=bitcoin&amp;from=2020-11-26&amp;sortBy=publishedAt&amp;apiKey=f0af0d8c0b1f41c8a50b22ff3f46034c</string>-->
+    <string name="API_URL">https://gnews.io/api/v4/top-headlines?token=4c63da2aec3a95771436663dbd77631b</string>
+    <!--    <string name="QUERY_BASED_API_URL">https://gnews.io/api/v4/search?q=example&amp;token=4c63da2aec3a95771436663dbd77631b</string>-->
+    <string name="CRYPTO_NEWS_API_URL">https://gnews.io/api/v4/search?q=cryptocurrency&amp;token=4c63da2aec3a95771436663dbd77631b</string>
+    <string name="options">Toggle Options</string>
+</resources>
